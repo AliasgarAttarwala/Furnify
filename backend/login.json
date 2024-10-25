@@ -1,0 +1,21 @@
+{
+    "users": [
+      {
+        "username": "aliasgar.a@somaiya.edu",
+        "password": "password"
+      },
+      {
+        "username": "mihir.lodaya@somaiya.edu",
+        "password": "mihir123"
+      },
+      {
+        "username": "ojas.c@somaiaya.edu",
+        "password": "123456789"
+      },
+      {
+        "username": "ajeet@somaiya.edu",
+        "password": "ajeet1234"
+      }
+    ]
+  }
+  
